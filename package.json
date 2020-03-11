@@ -1,0 +1,23 @@
+{
+  "name": "Devops Certification",
+  "version": "1.0.0",
+  "description": "A Hello World HTTP server using Node JS",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nile1/Devops-Certification"
+  },
+  "keywords": [
+    "node",
+    "docker",
+    "dockerfile"
+  ],
+  "author": "Nilesh.g@dell.com",
+  "license": "ISC",
+  "devDependencies": { "test": ">=0.6.0" }
+}
+
