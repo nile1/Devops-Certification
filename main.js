@@ -4,7 +4,7 @@ var http = require('http');
 // configure our HTTP server
 var server = http.createServer(function (request, response) {
   response.writeHead(200, {"Content-Type": "text/plain"});
-  response.end("Hello World!! \n Simplilearn Devops Certification submission by Nilesh Gupta, Version1 ");
+  response.end("Hello World!! \n Simplilearn Devops Certification submission by Nilesh Gupta, Version 2  ");
 });
 
 // listen on localhost:8000
